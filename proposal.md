@@ -1,4 +1,4 @@
-# [Project Name]
+# [The Marcy Times]
 
 Created by [team member], [team member], and [team member].
 
